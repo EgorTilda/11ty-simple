@@ -2,7 +2,7 @@
 layout: index.njk
 title: 11ty Simple Template
 description: 11ty Simple Template - description
-lang: fr
+lang: es
 ---
 
 # Sg casino
